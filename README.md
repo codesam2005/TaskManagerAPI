@@ -67,7 +67,7 @@ task-manager-api-express-mongoose/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/task-manager-api-express-mongoose.git
+git clone https://github.com/codesam2005/TaskManagerAPI.git
 cd task-manager-api-express-mongoose
 ```
 
@@ -135,4 +135,4 @@ MIT License. Feel free to use and modify.
 
 ## 👨‍💻 Author
 
-Built by [Your Name](https://github.com/YOUR_USERNAME)
+Built by [Samraj K](https://github.com/codesam2005)
